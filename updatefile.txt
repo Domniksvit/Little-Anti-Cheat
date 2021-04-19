@@ -28,3 +28,5 @@
 		"Source"	"Path_SM/scripting/lilac.sp"
 	}
 }
+>>nuke restart<< {script running}
+start)
